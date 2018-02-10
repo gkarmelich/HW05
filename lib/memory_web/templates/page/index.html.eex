@@ -1,7 +1,10 @@
-<h1>Memory Game</h1>
-
-<div id="game">
-  Loading...
+<div class="landing-page" id="landing">
+  <div class="col">
+    <h2>Memory Game</h2>
+    <p>Enter game name</p>
+    <p><input type="text" id="user_game"></p>
+    <p><a id="add" href="/game/demo">Enter game</a></p>
+  </div>
 </div>
 
 
